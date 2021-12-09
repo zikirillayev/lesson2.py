@@ -197,10 +197,10 @@
 #     print(i)
 
 # 8 - assignment
-summa = 1 
-for i in range(1,11):
-    summa *= i
-print(summa)
+# summa = 1 
+# for i in range(1,11):
+#     summa *= i
+# print(summa)
 
 # 9 - assignment
 # a = 1
@@ -228,3 +228,62 @@ print(summa)
 #     print(i)
 
  
+
+# narx = 15000 #mijoz 15 somga ovqat oldi
+# choy = True
+# salat = False
+# non = True
+# kompot = True
+# assorti = False
+
+# if choy:
+#     print("choy oldi")
+#     narx = narx + 3000
+# if salat:
+#     print("salat oldi")
+#     narx = narx + 5000
+# if non:
+#     print("non oldi")
+#     narx = narx + 2000
+# if kompot:
+#     print("kompot oldi")
+#     narx = narx + 5000
+# if assorti:
+#     print("assorti oldi")
+#     narx = narx + 15000
+
+# print(f"Jami {narx} so`m")
+
+
+
+# in operatori
+# menu = ['pilav' , 'kebab' , 'narin' , 'samsa']
+# order = input('what do you want to consume?')
+# if order.lower() in menu:
+#     print("ok, we are coming")
+# else:
+#     print("\nwe do not have that kind of meal, sorry") 
+
+
+# menu = ['pilav' , 'kebab' , 'narin' , 'samsa']
+# order = ['kebab' , 'lagman' , 'narin']
+# for meal in order:
+#     if meal.lower() in menu:
+#         print(f"yeah, we have {meal}")
+#     else:
+#         print(f"sorry, we do not have {meal}") 
+
+# list1 = [1,2,3]
+# if len(list1) > 0:
+#     print(True)
+# else:
+#     print(False)
+# list2 = []
+# if len(list2) > 0:
+#     print(True)
+# else:
+#     print(False)
+
+
+
+
